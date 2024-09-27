@@ -8,11 +8,7 @@ Welcome to the **Quiz Website for GCE O-Level ICT Students** repository! This pr
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
